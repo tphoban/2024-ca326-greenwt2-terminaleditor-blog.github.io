@@ -1,0 +1,9 @@
+title: CA326 TTENS Blog
+description: Blog which details the development process of the TTENS project
+baseurl: ""
+url: "2024-ca326-greenwt2-terminaleditor-blog.github.io"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
